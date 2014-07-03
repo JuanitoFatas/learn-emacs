@@ -22,7 +22,7 @@ Minibuffer
 起步
 ----
 
-[安裝 Emacs][#安裝]，啟動 Emacs，會看到下圖：
+[安裝 Emacs](#安裝)，啟動 Emacs，會看到下圖：
 
 ![Emacs](/images/emacs-welcome.png)
 
