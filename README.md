@@ -37,7 +37,25 @@ Minibuffer
 
 [OSX](http://emacsformacosx.com/)
 
+
+設定包
+------
+
+[purcell/emacs.d](https://github.com/purcell/emacs.d)
+
+[bbatsov/prelude](https://github.com/bbatsov/prelude)
+
+[technomancy/emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit)
+
+[overtone/emacs-live](https://github.com/overtone/emacs-live) 775 :star:
+
+[xiaohanyu/oh-my-emacs](https://github.com/xiaohanyu/oh-my-emacs)
+
+[redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d)
+
+
 學習影片
 -------
 
 <http://emacsrocks.com/>
+Aa
