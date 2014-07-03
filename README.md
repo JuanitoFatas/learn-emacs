@@ -37,7 +37,7 @@ Minibuffer
 
 [OSX](http://emacsformacosx.com/)
 
-學習資源
-----
+學習影片
+-------
 
 <http://emacsrocks.com/>
