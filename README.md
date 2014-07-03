@@ -22,20 +22,13 @@ Minibuffer
 起步
 ----
 
-啟動 Emacs，會看到下圖：
+[安裝 Emacs][#安裝]，啟動 Emacs，會看到下圖：
 
 ![Emacs](/images/emacs-welcome.png)
 
 **做一次 EmacsTutorial**。
 
 :warning: 必須要做完才可以繼續閱讀！:warning:
-
-目錄
-----
-
-  - [原則](#原則)
-  - [安裝](#安裝)
-  - [安裝](#學習資源)
 
 安裝
 ----
