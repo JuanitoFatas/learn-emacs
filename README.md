@@ -57,4 +57,3 @@ Minibuffer
 -------
 
 <http://emacsrocks.com/>
-Aa
