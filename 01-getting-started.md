@@ -14,4 +14,4 @@
 
 **看 `C-h t`。**
 
-**讀 [A guided tour of Emacs](http://www.gnu.org/software/emacs/tour/)。**
+**讀 [A guided tour of Emacs](https://www.gnu.org/software/emacs/tour/)。**
