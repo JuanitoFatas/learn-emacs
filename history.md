@@ -1,0 +1,3 @@
+# Emacs 歷史
+
+Emacs was originally implementated in 1976 on the MIT AI Lab's Incompatible Timesharing System (ITS), as a collection of TECO macros. The name “Emacs” was originally chosen as an abbreviation of “Editor MACroS”. This version of Emacs, GNU Emacs, was originally written in 1984. For more information, see the 1981 paper by Richard Stallman, describing the design of the original Emacs and the lessons to be learned from it, and a transcript of his 2002 speech at the International Lisp Conference, My Lisp Experiences and the Development of GNU Emacs. Here is the cover of the original Emacs Manual for ITS; the cover of the original Emacs Manual for Twenex; and (the only cartoon RMS has ever drawn) the Self-Documenting Extensible Editor.
